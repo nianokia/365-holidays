@@ -1,0 +1,13 @@
+.Holidays {
+  padding: 0 30px;
+}
+
+.Holidays .holidayCard {
+  background: cornflowerblue;
+  border-radius: 30px;
+  padding: 25px 0;
+}
+
+.Holidays h3 {
+  color: ghostwhite;
+}
